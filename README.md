@@ -1,4 +1,6 @@
 # my-app 프로젝트와 git 연동
+- CI/CD
+- AWS 
 
 
 ## Getting Started with Create React App
